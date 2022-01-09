@@ -1,0 +1,10 @@
+/*CREATE TABLE IF NOT EXISTS A(
+	personelName varchar,
+	count int
+);
+
+CREATE TABLE IF NOT EXISTS B(
+	personelName varchar,
+	count int
+);
+*/
